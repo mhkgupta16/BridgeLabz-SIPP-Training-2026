@@ -3,7 +3,7 @@
 
 
 
-public class TypeCasting{
+public class Ravi{
 public static void main(String[] args){
   String name="Ravi";
   int age=25;
