@@ -1,4 +1,4 @@
-abstract class PersonBase {
+abstract class PersonB-practase {
   private int id;
   private String name;
   private String email;
